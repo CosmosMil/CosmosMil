@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CosmosMil
 - 👀 I’m interested in Rust and CosmWasm
-- 🌱 I’m currently studying JavaScript
+- 🌱 I’m currently studying JavaScript and React
 
 
 
