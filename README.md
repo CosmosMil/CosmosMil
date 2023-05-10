@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CosmosMil
-- 👀 I’m interested in Rust and CosmWasm
+- 👀 I’m interested in CosmWasm and Smart Contracts
 - 🌱 I’m currently studying JavaScript and React
 
 
