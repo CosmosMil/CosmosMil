@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @CosmosMil
-- 👀 I’m interested in CosmWasm and Smart Contracts
-- 🌱 I’m currently studying JavaScript, TypeScript and React
+- 👋 I’m @CosmosMil
+- 👀 Looking into CosmJS
+- 🌱 Currently building with JavaScript, TypeScript and React
 
 
 
