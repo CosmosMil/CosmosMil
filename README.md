@@ -1,6 +1,6 @@
 - 👋 I’m @CosmosMil
-- 👀 Looking into CosmJS
-- 🌱 Currently building with JavaScript, TypeScript and React
+- 👀 Learning Rust on Solana
+- 🌱 Building with JavaScript, TypeScript and React
 
 
 
